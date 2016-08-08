@@ -1,0 +1,19 @@
+
+game-over.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+game-over-title
+  rotate: false
+  xy: 1, 69
+  size: 291, 141
+  orig: 291, 141
+  offset: 0, 0
+  index: -1
+instruction
+  rotate: false
+  xy: 1, 1
+  size: 341, 66
+  orig: 341, 66
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,89 @@
+
+main-screen.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+cave-up
+  rotate: false
+  xy: 1, 416
+  size: 912, 82
+  orig: 912, 82
+  offset: 0, 0
+  index: -1
+cave-down
+  rotate: false
+  xy: 1, 333
+  size: 912, 81
+  orig: 912, 81
+  offset: 0, 0
+  index: -1
+pause-dialog
+  rotate: false
+  xy: 1, 130
+  size: 330, 201
+  orig: 330, 201
+  offset: 0, 0
+  index: -1
+stalactite
+  rotate: false
+  xy: 333, 152
+  size: 138, 179
+  orig: 138, 179
+  offset: 0, 0
+  index: -1
+play-btn
+  rotate: false
+  xy: 1, 1
+  size: 173, 127
+  orig: 173, 127
+  offset: 0, 0
+  index: -1
+pause-btn
+  rotate: false
+  xy: 473, 273
+  size: 214, 58
+  orig: 214, 58
+  offset: 0, 0
+  index: -1
+rocket-mini
+  rotate: false
+  xy: 915, 445
+  size: 103, 53
+  orig: 103, 53
+  offset: 0, 0
+  index: -1
+helicopter-mini
+  rotate: false
+  xy: 176, 74
+  size: 100, 54
+  orig: 100, 54
+  offset: 0, 0
+  index: -1
+cog-btn
+  rotate: false
+  xy: 473, 207
+  size: 66, 64
+  orig: 66, 64
+  offset: 0, 0
+  index: -1
+gas-mini
+  rotate: false
+  xy: 915, 384
+  size: 43, 59
+  orig: 43, 59
+  offset: 0, 0
+  index: -1
+heart-mini
+  rotate: false
+  xy: 689, 294
+  size: 45, 37
+  orig: 45, 37
+  offset: 0, 0
+  index: -1
+star-mini
+  rotate: false
+  xy: 176, 31
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,40 @@
+
+menu.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+game-title
+  rotate: false
+  xy: 1, 18
+  size: 285, 229
+  orig: 285, 229
+  offset: 0, 0
+  index: -1
+left-btn-dark-brown
+  rotate: false
+  xy: 288, 187
+  size: 204, 60
+  orig: 204, 60
+  offset: 0, 0
+  index: -1
+left-btn-light-brown
+  rotate: false
+  xy: 288, 124
+  size: 203, 61
+  orig: 203, 61
+  offset: 0, 0
+  index: -1
+right-btn-dark-brown
+  rotate: false
+  xy: 288, 62
+  size: 204, 60
+  orig: 204, 60
+  offset: 0, 0
+  index: -1
+right-btn-light-brown
+  rotate: false
+  xy: 288, 1
+  size: 201, 59
+  orig: 201, 59
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,26 @@
+
+scores.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+scores-dialog
+  rotate: false
+  xy: 1, 60
+  size: 486, 413
+  orig: 486, 413
+  offset: 0, 0
+  index: -1
+game-title
+  rotate: false
+  xy: 489, 244
+  size: 285, 229
+  orig: 285, 229
+  offset: 0, 0
+  index: -1
+ok-btn
+  rotate: false
+  xy: 1, 1
+  size: 105, 57
+  orig: 105, 57
+  offset: 0, 0
+  index: -1

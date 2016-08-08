@@ -1,0 +1,4 @@
+References:
+Libgdx Game Development Essentials - online pdf: https://vk.com/doc19838261_370886923?hash=6c97a4dd38e49824e3&dl=be3439cd0022728cfe
+Libgdx Wiki on Github: https://github.com/libgdx/libgdx/wiki
+Android Guide on parse.com in terms of backend storage: https://parse.com/docs/android/guide
